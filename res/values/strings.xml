@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IEYE</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_result">Result</string>
+    <string name="butt3">准备开始</string>
+    <string name="butt4"> 退出</string>
+    <string name="butt5">Look here</string>
+     <string name="but1">以左右大拇指罗纹面接左右眉头下面的上眶角处。其他四指散开弯曲如弓状，支在前额上，按探面不要大.</string>
+    <string name="but2">以左手或右手大拇指按鼻根部，先向下按、然后向上挤.</string>
+    <string name="but3">先以左右食指与中指并拢，放在靠近鼻翼两侧，大拇指支撑在下腭骨凹陷处，然后放下中指，在面颊中央按揉。注意穴位不需移动，按揉面不要太大.</string>
+    <string name="but4">拳起四指，以左右大拇指罗纹面按住太阳穴，以左右食指第二节内侧面轮刮眼眶上下一圈，上侧从眉头开始，到眉梢为止，下面从内眼角起至外眼角止，先上后下，轮刮上下一圈.</string>
+    <string name="fanhui1">返回</string>
+
+</resources>
